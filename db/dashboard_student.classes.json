@@ -1,0 +1,1123 @@
+[{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122079"
+  },
+  "name": "ITIT20UN41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122087"
+  },
+  "name": "ITIT20CS41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122089"
+  },
+  "name": "ITIT20CS31",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "IE3",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612208b"
+  },
+  "name": "ITIT20CS21",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612208d"
+  },
+  "name": "ITIT20CS11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612208f"
+  },
+  "name": "ITIT20CS02",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 2,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122091"
+  },
+  "name": "ITIT20CS01",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 1,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122093"
+  },
+  "name": "ITIT20CE41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2020",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122095"
+  },
+  "name": "ITIT20CE02",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 2,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122097"
+  },
+  "name": "ITIT20CE01",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 1,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122099"
+  },
+  "name": "ITIT204WE41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2020",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612209b"
+  },
+  "name": "ITIT204WE11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2020",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612209d"
+  },
+  "name": "ITIT204WE01",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 1,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612207f"
+  },
+  "name": "ITIT20SB01",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 1,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612207d"
+  },
+  "name": "ITIT20SB11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2020",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612207b"
+  },
+  "name": "ITIT20SB41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2020",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220a5"
+  },
+  "name": "ITIT19UN110",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220a7"
+  },
+  "name": "ITIT19SB31",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2019",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220a9"
+  },
+  "name": "ITIT19SB110",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220ab"
+  },
+  "name": "ITIT19NE1",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220ad"
+  },
+  "name": "ITIT19CS3",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2019",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220af"
+  },
+  "name": "ITIT19CS2",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2019",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220b1"
+  },
+  "name": "ITIT19CS1",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220b3"
+  },
+  "name": "ITIT19CE",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 1,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220b5"
+  },
+  "name": "ITIT194WE31",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2019",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220b7"
+  },
+  "name": "ITIT20UN11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220b9"
+  },
+  "name": "ITIT20UN01",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 1,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220bb"
+  },
+  "name": "ITIT18UN11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2018",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 18
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220bd"
+  },
+  "name": "ITIT18SB11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2018",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 18
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220bf"
+  },
+  "name": "ITIT18RG11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2018",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 18
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220c1"
+  },
+  "name": "ITIT18NE",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2018",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 1,
+  "englishLevelNumber": 18
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220c3"
+  },
+  "name": "ITIT18CS2",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2018",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 18
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220c5"
+  },
+  "name": "ITIT18CS1",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2018",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 18
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220c7"
+  },
+  "name": "ITIT184WE11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2018",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 18
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220c9"
+  },
+  "name": "ITIT17SB31",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2017",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 17
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220cb"
+  },
+  "name": "ITIT17RG11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2017",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 17
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220cd"
+  },
+  "name": "ITIT17NE1",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2017",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 17
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220cf"
+  },
+  "name": "ITIT17CS2",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2017",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 17
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220d3"
+  },
+  "name": "ITIT174WE21",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2017",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 17
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220d1"
+  },
+  "name": "ITIT17CS1",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2017",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 17
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220d9"
+  },
+  "name": "ITDS20IU31",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2020",
+  "englishLevel": "IE3",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220db"
+  },
+  "name": "ITDS20IU21",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2020",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220df"
+  },
+  "name": "ITDS18IU31",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2018",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 18
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220e1"
+  },
+  "name": "ITDS18IU21",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2018",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 18
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220e3"
+  },
+  "name": "ITDS18IU11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2018",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 18
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220e5"
+  },
+  "name": "ITCS21IU41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2021",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 21
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220e7"
+  },
+  "name": "ITCS202DK31",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "IE3",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220e9"
+  },
+  "name": "ITCS202DK01",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 1,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220eb"
+  },
+  "name": "ITDS19IU11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220ed"
+  },
+  "name": "ITDS19IU110",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220ef"
+  },
+  "name": "ITDS19IU111",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220f1"
+  },
+  "name": "ITDS19IU21",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2019",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220f3"
+  },
+  "name": "ITDS19IU212",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2019",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220f5"
+  },
+  "name": "ITDS19IU213",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2019",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 31,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220f7"
+  },
+  "name": "ITDS19IU31",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2019",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220f9"
+  },
+  "name": "ITIT214WE41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2021",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 21
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220fb"
+  },
+  "name": "ITIT21CE41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2021",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 21
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122101"
+  },
+  "name": "ITIT21SB41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2021",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 21
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122103"
+  },
+  "name": "ITIT21UN41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e45"
+  },
+  "major": "CS",
+  "version": "2021",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 21
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122105"
+  },
+  "name": "class_id",
+  "majorId": {
+    "$oid": "659a197bbe4f730f86122022"
+  },
+  "major": "major",
+  "version": "version",
+  "englishLevel": "english_level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122107"
+  },
+  "name": "ITIT20WE11",
+  "majorId": {
+    "$oid": "659a197bbe4f730f86122024"
+  },
+  "major": "NE",
+  "version": "2020",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122109"
+  },
+  "name": "ITIT20NE02",
+  "majorId": {
+    "$oid": "659a197bbe4f730f8612202c"
+  },
+  "major": "NE",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 2,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612210b"
+  },
+  "name": "ITIT20NE01",
+  "majorId": {
+    "$oid": "659a197bbe4f730f8612202e"
+  },
+  "major": "NE",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 1,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612210f"
+  },
+  "name": "ITIT20NE11",
+  "majorId": {
+    "$oid": "659a197bbe4f730f8612202a"
+  },
+  "major": "NE",
+  "version": "2020",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612211c"
+  },
+  "name": "ITIT19WE212",
+  "majorId": {
+    "$oid": "659a197bbe4f730f8612203c"
+  },
+  "major": "NE",
+  "version": "2019",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 21,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612211e"
+  },
+  "name": "ITIT19WE111",
+  "majorId": {
+    "$oid": "659a197bbe4f730f8612203e"
+  },
+  "major": "NE",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122120"
+  },
+  "name": "ITIT19WE110",
+  "majorId": {
+    "$oid": "659a197bbe4f730f86122040"
+  },
+  "major": "NE",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220d5"
+  },
+  "name": "ITDS21IU41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2021",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 21
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f861220d7"
+  },
+  "name": "ITDS20IU41",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2020",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612213c"
+  },
+  "name": "ITDS20IU11",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2020",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f8612213e"
+  },
+  "name": "ITDS20IU01",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e48"
+  },
+  "major": "DS",
+  "version": "2020",
+  "englishLevel": "IE0",
+  "__v": 0,
+  "batch": 1,
+  "englishLevelNumber": 20
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122142"
+  },
+  "name": "ITIT194WE212",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2019",
+  "englishLevel": "IE2",
+  "__v": 0,
+  "batch": 12,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122144"
+  },
+  "name": "ITIT194WE111",
+  "majorId": {
+    "$oid": "659a13548add6de64b965e42"
+  },
+  "major": "CE",
+  "version": "2019",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 19
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122155"
+  },
+  "name": "ITIT21NE11",
+  "majorId": {
+    "$oid": "659a197bbe4f730f8612206f"
+  },
+  "major": "NE",
+  "version": "2021",
+  "englishLevel": "IE1",
+  "__v": 0,
+  "batch": 11,
+  "englishLevelNumber": 21
+},
+{
+  "_id": {
+    "$oid": "659a197bbe4f730f86122157"
+  },
+  "name": "ITIT21NE41",
+  "majorId": {
+    "$oid": "659a197bbe4f730f86122071"
+  },
+  "major": "NE",
+  "version": "2021",
+  "englishLevel": "AE1",
+  "__v": 0,
+  "batch": 41,
+  "englishLevelNumber": 21
+}]
